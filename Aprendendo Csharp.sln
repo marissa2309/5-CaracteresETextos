@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - AprendendoCsharp", "ConsoleApp1\1 - AprendendoCsharp.csproj", "{45DF54A8-C64C-48B9-B451-8F7F45CD3381}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-criandoVariaveis", "2-criandoVariaveis\2-criandoVariaveis.csproj", "{2047330B-5DAF-4CBD-80DE-8CC506989EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DF54A8-C64C-48B9-B451-8F7F45CD3381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DF54A8-C64C-48B9-B451-8F7F45CD3381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DF54A8-C64C-48B9-B451-8F7F45CD3381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DF54A8-C64C-48B9-B451-8F7F45CD3381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2047330B-5DAF-4CBD-80DE-8CC506989EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2047330B-5DAF-4CBD-80DE-8CC506989EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2047330B-5DAF-4CBD-80DE-8CC506989EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2047330B-5DAF-4CBD-80DE-8CC506989EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB4DA63-93BD-4DC7-AB8D-B45A936B3B3E}
+	EndGlobalSection
+EndGlobal

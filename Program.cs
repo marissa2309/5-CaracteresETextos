@@ -1,24 +1,28 @@
-﻿using System;
+﻿
+using System;
 
 class Programa
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Projeto 03 - Variaveis Ponto Flutuante");
-        double  salario;
-        salario = 3000.10;
+        Console.WriteLine("Projeto 02 - Criando Variaveis");
+        int idade;
 
-        salario = 5000;
-        Console.WriteLine(salario);
+        idade = 27;
 
-        double idade;
-        idade = 7.0 / 5;
+        Console.WriteLine("Minha idade é " + idade);
 
-        Console.WriteLine(idade);   
+        idade = 27 - 5;
+        Console.WriteLine("Minha idade é " + idade);
 
+        idade = 5 * 2 - 6;
+        Console.WriteLine("Minha idade é " + idade);
 
-        Console.WriteLine("Pressione ENTER para fechar");
+        idade = (5 - 2) * 3;
+        Console.WriteLine("Minha idade é " + idade);
+
+        Console.WriteLine("Precione ENTER para encerrar");
         Console.ReadLine();
+
     }
 }
-
